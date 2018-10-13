@@ -1,0 +1,11 @@
+{
+    "name": "jajouka79/wp-sync-db-multisite-tools",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Simon Beasley",
+            "email": "sie@medusamediacreations.co.uk"
+        }
+    ],
+    "require": {}
+}
